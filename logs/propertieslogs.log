@@ -1,0 +1,12 @@
+[TRACE] 2017-10-10 15:53:42.291 [http-nio-8080-exec-2] TestingLog4jControllerSecond - Trace Message
+[DEBUG] 2017-10-10 15:53:42.291 [http-nio-8080-exec-2] TestingLog4jControllerSecond - Debug Message
+[INFO ] 2017-10-10 15:53:42.291 [http-nio-8080-exec-2] TestingLog4jControllerSecond - Info Message
+[WARN ] 2017-10-10 15:53:42.291 [http-nio-8080-exec-2] TestingLog4jControllerSecond - Warning Message
+[ERROR] 2017-10-10 15:53:42.291 [http-nio-8080-exec-2] TestingLog4jControllerSecond - Error Message
+[FATAL] 2017-10-10 15:53:42.291 [http-nio-8080-exec-2] TestingLog4jControllerSecond - Fatal Message
+[TRACE] 2017-10-10 15:55:48.637 [http-nio-8080-exec-4] TestingLog4jControllerSecond - Trace Message
+[DEBUG] 2017-10-10 15:55:48.637 [http-nio-8080-exec-4] TestingLog4jControllerSecond - Debug Message
+[INFO ] 2017-10-10 15:55:48.637 [http-nio-8080-exec-4] TestingLog4jControllerSecond - Info Message
+[WARN ] 2017-10-10 15:55:48.637 [http-nio-8080-exec-4] TestingLog4jControllerSecond - Warning Message
+[ERROR] 2017-10-10 15:55:48.637 [http-nio-8080-exec-4] TestingLog4jControllerSecond - Error Message
+[FATAL] 2017-10-10 15:55:48.637 [http-nio-8080-exec-4] TestingLog4jControllerSecond - Fatal Message
